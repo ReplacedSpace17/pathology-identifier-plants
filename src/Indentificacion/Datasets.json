@@ -1,0 +1,242 @@
+[
+    {
+      "Numero": 1,
+      "SecuenciaADN": "ATGCGTACGTAGCTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCT",
+      "PatogenoIdentificado": "Phytophthora infestans",
+      "FechaIdentificacion": "2023-01-10"
+    },
+    {
+      "Numero": 2,
+      "SecuenciaADN": "GTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACG",
+      "PatogenoIdentificado": "Fusarium oxysporum",
+      "FechaIdentificacion": "2023-01-15"
+    },
+    {
+      "Numero": 3,
+      "SecuenciaADN": "ATCGTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTA",
+      "PatogenoIdentificado": "Xanthomonas campestris",
+      "FechaIdentificacion": "2023-02-05"
+    },
+    {
+      "Numero": 4,
+      "SecuenciaADN": "CGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTAC",
+      "PatogenoIdentificado": "Botrytis cinerea",
+      "FechaIdentificacion": "2023-02-20"
+    },
+    {
+      "Numero": 5,
+      "SecuenciaADN": "TAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTA",
+      "PatogenoIdentificado": "Ralstonia solanacearum",
+      "FechaIdentificacion": "2023-03-03"
+    },
+    {
+      "Numero": 6,
+      "SecuenciaADN": "CTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGC",
+      "PatogenoIdentificado": "Alternaria solani",
+      "FechaIdentificacion": "2023-03-15"
+    },
+    {
+      "Numero": 7,
+      "SecuenciaADN": "TACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGT",
+      "PatogenoIdentificado": "Erwinia amylovora",
+      "FechaIdentificacion": "2023-04-02"
+    },
+    {
+      "Numero": 8,
+      "SecuenciaADN": "GTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACG",
+      "PatogenoIdentificado": "Pythium ultimum",
+      "FechaIdentificacion": "2023-04-18"
+    },
+    {
+      "Numero": 9,
+      "SecuenciaADN": "TAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTA",
+      "PatogenoIdentificado": "Pseudomonas syringae",
+      "FechaIdentificacion": "2023-05-05"
+    },
+    {
+      "Numero": 10,
+      "SecuenciaADN": "CTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGC",
+      "PatogenoIdentificado": "Phoma spp.",
+      "FechaIdentificacion": "2023-05-20"
+    },
+    {
+      "Numero": 11,
+      "SecuenciaADN": "TACGTACGTAGCTAGCTACGTACGTAGCTACGTACGTAGCTAGCTACGT",
+      "PatogenoIdentificado": "Rhizoctonia solani",
+      "FechaIdentificacion": "2023-06-03"
+    },
+    {
+      "Numero": 12,
+      "SecuenciaADN": "GTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACG",
+      "PatogenoIdentificado": "Colletotrichum spp.",
+      "FechaIdentificacion": "2023-06-15"
+    },
+    {
+      "Numero": 13,
+      "SecuenciaADN": "TAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTA",
+      "PatogenoIdentificado": "Cercospora spp.",
+      "FechaIdentificacion": "2023-07-02"
+    },
+    {
+      "Numero": 14,
+      "SecuenciaADN": "CTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGC",
+      "PatogenoIdentificado": "Fusarium graminearum",
+      "FechaIdentificacion": "2023-07-18"
+    },
+    {
+      "Numero": 15,
+      "SecuenciaADN": "TACGTACGTAGCTAGCTACGTACGTAGCTACGTACGTAGCTAGCTACGT",
+      "PatogenoIdentificado": "Phytophthora capsici",
+      "FechaIdentificacion": "2023-08-05"
+    },
+    {
+      "Numero": 16,
+      "SecuenciaADN": "GTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACG",
+      "PatogenoIdentificado": "Erysiphe cichoracearum",
+      "FechaIdentificacion": "2023-08-20"
+    },
+    {
+      "Numero": 17,
+      "SecuenciaADN": "TAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTA",
+      "PatogenoIdentificado": "Ralstonia pseudosolanacearum",
+      "FechaIdentificacion": "2023-09-02"
+    },
+    {
+      "Numero": 18,
+      "SecuenciaADN": "CTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGC",
+      "PatogenoIdentificado": "Sclerotinia sclerotiorum",
+      "FechaIdentificacion": "2023-09-15"
+    },
+    {
+      "Numero": 19,
+      "SecuenciaADN": "TACGTACGTAGCTAGCTACGTACGTAGCTACGTACGTAGCTAGCTACGT",
+      "PatogenoIdentificado": "Phytophthora cinnamomi",
+      "FechaIdentificacion": "2023-10-03"
+    },
+    {
+      "Numero": 20,
+      "SecuenciaADN": "GTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACG",
+      "PatogenoIdentificado": "Botryosphaeria spp.",
+      "FechaIdentificacion": "2023-10-18"
+    },
+    {
+      "Numero": 21,
+      "SecuenciaADN": "TAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTA",
+      "PatogenoIdentificado": "Phomopsis spp.",
+      "FechaIdentificacion": "2023-11-05"
+    },
+    {
+      "Numero": 22,
+      "SecuenciaADN": "CTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGC",
+      "PatogenoIdentificado": "Fusarium spp.",
+      "FechaIdentificacion": "2023-11-20"
+    },
+    {
+      "Numero": 23,
+      "SecuenciaADN": "TACGTACGTAGCTAGCTACGTACGTAGCTACGTACGTAGCTAGCTACGT",
+      "PatogenoIdentificado": "Puccinia spp.",
+      "FechaIdentificacion": "2023-12-03"
+    },
+    {
+      "Numero": 24,
+      "SecuenciaADN": "GTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACG",
+      "PatogenoIdentificado": "Sclerotium rolfsii",
+      "FechaIdentificacion": "2023-12-15"
+    },
+    {
+      "Numero": 25,
+      "SecuenciaADN": "TAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTA",
+      "PatogenoIdentificado": "Ralstonia solanacearum",
+      "FechaIdentificacion": "2024-01-02"
+    },
+    {
+      "Numero": 26,
+      "SecuenciaADN": "CTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGC",
+      "PatogenoIdentificado": "Botrytis cinerea",
+      "FechaIdentificacion": "2024-01-15"
+    },
+    {
+      "Numero": 27,
+      "SecuenciaADN": "TACGTACGTAGCTAGCTACGTACGTAGCTACGTACGTAGCTAGCTACGT",
+      "PatogenoIdentificado": "Alternaria solani",
+      "FechaIdentificacion": "2024-02-03"
+    },
+    {
+      "Numero": 28,
+      "SecuenciaADN": "GTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACG",
+      "PatogenoIdentificado": "Erwinia amylovora",
+      "FechaIdentificacion": "2024-02-18"
+    },
+    {
+      "Numero": 29,
+      "SecuenciaADN": "TAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTA",
+      "PatogenoIdentificado": "Pythium ultimum",
+      "FechaIdentificacion": "2024-03-02"
+    },
+    {
+      "Numero": 30,
+      "SecuenciaADN": "CTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGC",
+      "PatogenoIdentificado": "Pseudomonas syringae",
+      "FechaIdentificacion": "2024-03-15"
+    },
+    {
+      "Numero": 31,
+      "SecuenciaADN": "TACGTACGTAGCTAGCTACGTACGTAGCTACGTACGTAGCTAGCTACGT",
+      "PatogenoIdentificado": "Phoma spp.",
+      "FechaIdentificacion": "2024-04-03"
+    },
+    {
+      "Numero": 32,
+      "SecuenciaADN": "GTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACG",
+      "PatogenoIdentificado": "Rhizoctonia solani",
+      "FechaIdentificacion": "2024-04-18"
+    },
+    {
+      "Numero": 33,
+      "SecuenciaADN": "TAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTA",
+      "PatogenoIdentificado": "Colletotrichum spp.",
+      "FechaIdentificacion": "2024-05-05"
+    },
+    {
+      "Numero": 34,
+      "SecuenciaADN": "CTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGC",
+      "PatogenoIdentificado": "Cercospora spp.",
+      "FechaIdentificacion": "2024-05-20"
+    },
+    {
+      "Numero": 35,
+      "SecuenciaADN": "TACGTACGTAGCTAGCTACGTACGTAGCTACGTACGTAGCTAGCTACGT",
+      "PatogenoIdentificado": "Fusarium graminearum",
+      "FechaIdentificacion": "2024-06-03"
+    },
+    {
+      "Numero": 36,
+      "SecuenciaADN": "GTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACG",
+      "PatogenoIdentificado": "Phytophthora capsici",
+      "FechaIdentificacion": "2024-06-15"
+    },
+    {
+      "Numero": 37,
+      "SecuenciaADN": "TAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTA",
+      "PatogenoIdentificado": "Erysiphe cichoracearum",
+      "FechaIdentificacion": "2024-07-02"
+    },
+    {
+      "Numero": 38,
+      "SecuenciaADN": "CTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGC",
+      "PatogenoIdentificado": "Ralstonia pseudosolanacearum",
+      "FechaIdentificacion": "2024-07-18"
+    },
+    {
+      "Numero": 39,
+      "SecuenciaADN": "TACGTACGTAGCTAGCTACGTACGTAGCTACGTACGTAGCTAGCTACGT",
+      "PatogenoIdentificado": "Sclerotinia sclerotiorum",
+      "FechaIdentificacion": "2024-08-05"
+    },
+    {
+      "Numero": 40,
+      "SecuenciaADN": "GTAGCTAGCTACGTACGTAGCTAGCTACGTACGTAGCTAGCTACGTACG",
+      "PatogenoIdentificado": "Phytophthora cinnamomi",
+      "FechaIdentificacion": "2024-08-05"
+    }
+]
